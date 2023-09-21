@@ -48,7 +48,9 @@ https://www.cloudskillsboost.google/public_profiles/0caad5f6-4bd1-490c-aabd-ec33
 </li>
 <li>
   <h3>
+    
   Web development (Php-Django-JS) experience for 3 years.
+  
   </h3>
     
 </li>
@@ -56,12 +58,15 @@ https://www.cloudskillsboost.google/public_profiles/0caad5f6-4bd1-490c-aabd-ec33
   <h3>
   
   Data science experience for 2 years.
+  
   </h3>
   
 </li>
 <li>
   <h3>
+    
   Small value certifications form SoloLearn.com website.
+  
   </h3>
   
 </li>
