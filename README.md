@@ -47,22 +47,22 @@ https://www.cloudskillsboost.google/public_profiles/0caad5f6-4bd1-490c-aabd-ec33
   ![sql-1](https://github.com/eid-hamada22/eid-hamada22/assets/90055804/2e988a08-7b66-4117-a0c4-7d3cfee324b5)
 </li>
 <li>
-  <h1>
+  <h3>
   Web development (Php-Django-JS) experience for 3 years.
-  </h1>
+  </h3>
     
 </li>
 <li>
-  <h1>
+  <h3>
   
   Data science experience for 2 years.
-  </h1>
+  </h3>
   
 </li>
 <li>
-  <h1>
+  <h3>
   Small value certifications form SoloLearn.com website.
-  </h1>
+  </h3>
   
 </li>
 </ul>
